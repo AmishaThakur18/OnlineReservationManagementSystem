@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMISTHAK\\source\\repos\\OnlineRailwayReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4102BDCD-494E-42B2-B14D-84999243A912}|OnlineRailwayReservationSystem\\OnlineRailwayReservationSystem.csproj|c:\\users\\amisthak\\source\\repos\\onlinerailwayreservationsystem\\onlinerailwayreservationsystem\\models\\onlinerailwayreservationsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4102BDCD-494E-42B2-B14D-84999243A912}|OnlineRailwayReservationSystem\\OnlineRailwayReservationSystem.csproj|solutionrelative:onlinerailwayreservationsystem\\models\\onlinerailwayreservationsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineRailwayReservationSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMISTHAK\\source\\repos\\OnlineRailwayReservationSystem\\OnlineRailwayReservationSystem\\Models\\OnlineRailwayReservationSystemDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineRailwayReservationSystem\\Models\\OnlineRailwayReservationSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\AMISTHAK\\source\\repos\\OnlineRailwayReservationSystem\\OnlineRailwayReservationSystem\\Models\\OnlineRailwayReservationSystemDbContext.cs",
+              "RelativeToolTip": "OnlineRailwayReservationSystem\\Models\\OnlineRailwayReservationSystemDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:43:07.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
